@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/*全体*/
+body {
+  font-size: 6em;
+  text-align: center;
+}
+
+/*カウント*/
+.count-down {
+  margin: 0px;
+  font-weight: bold;
+  color: gray;
+}
+
+/*タイピング表示部*/
+.typing {
+  margin-top: 20px;
+  padding: 80px 40px;
+  background-color: gray;
+  font-weight: bold;
+  color: white;
+}
+
+/*タイプした文字*/
+.typed {
+  color: yellow;
+}
+
+.mistyped {
+  background-color: red;
+}
+
+/*スタートボタン*/
+#start {
+  background-color: gainsboro;
+  font-size: 15px;
+  padding: 5px;
+  border: solid 1px;
+  border-radius: 5px;
+}/*# sourceMappingURL=style.css.map */
